@@ -1,6 +1,6 @@
 # Hi, I'm Emirhan 👋
 
-🎓 Computer Engineering Student
+🎓 Computer Engineering Student at Eskişehir Osmangazi University
 
 🤖 Learning AI Automation & Full-Stack Development
 
