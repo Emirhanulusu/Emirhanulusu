@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Emirhan 👋
 
-<!--
-**Emirhanulusu/Emirhanulusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+🤖 Learning AI Automation & Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building projects to become a Freelancer and SaaS Founder
+
+🌍 C1 English
+
+📍 Eskişehir, Türkiye
+
+## 🛠️ Tech Stack
+
+- C++
+- Git & GitHub
+- JavaScript (Learning)
+- HTML & CSS (Learning)
+- AI Tools (ChatGPT, Claude, Gemini, Cursor)
+
+## 🎯 2026 Goals
+
+- Build 20+ real-world projects
+- Land my first international freelance client
+- Launch my first SaaS product
+- Become an AI Automation Engineer
